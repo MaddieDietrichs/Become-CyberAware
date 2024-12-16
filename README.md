@@ -1,2 +1,2 @@
 # Become-CyberAware
-A simple game to teach Cybersecurity basics.
+A simple game to teach Cybersecurity basics. I included a button for players to choose to play music if they wish (the music is fair use). I included a mix questions about general cybersecutiy principles (such as how suspicious emails may look at first glance) and also included questions about more specialized terms (ex: phising). I included the amount of questions answered correctly in the end scene and also a link for players to connect with me on LinkedIn. 
